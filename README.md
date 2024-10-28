@@ -43,7 +43,7 @@ The Workout Tracker is a backend system built with Spring Boot that allows users
 #### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/workout-tracker.git
+   git clone https://github.com/EmadHussien/Workout-Tracker.git
    cd workout-tracker
    ```
 
@@ -68,6 +68,8 @@ The Workout Tracker is a backend system built with Spring Boot that allows users
 ### 4. Database Schema
 
 ![image](https://github.com/user-attachments/assets/84e35111-35b6-45f6-be80-9a7234a3def4)
+
+Database MySQL Script: https://github.com/EmadHussien/Workout-Tracker/blob/main/Workout-Tracker-%20mysql%20script.sql
 
 
 
